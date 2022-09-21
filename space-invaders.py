@@ -13,7 +13,7 @@ BLACK = (0,0,0)
 mainClock = pygame.time.Clock()
 from pygame.locals import *
 pygame.init()
-pygame.display.set_caption('Space Invaders')
+pygame.display.set_caption('Space-Invaders')
 icon = pygame.image.load(r'C:\Users\riyan\Documents\Code\home\python\python projects\Games\space invaders\spaceship.png')
 pygame.display.set_icon(icon)
 #screen = pygame.display.set_mode((WIDTH, HEIGHT))
